@@ -1,5 +1,0 @@
-This is the search text
-There may be the word python several times here
-Python is (not) a good language
-python appears in different registers
-Another python
