@@ -16,7 +16,6 @@ f = open("encrypted.txt", "w", encoding="utf-8")
 f.write(encrypted)
 f.close()
 
-# Decryption
 f = open("encrypted.txt", "r", encoding="utf-8")
 enc = f.read()
 f.close()
