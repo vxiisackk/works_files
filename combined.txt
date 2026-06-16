@@ -1,0 +1,11 @@
+=== Content of file1.txt ===
+This is the first file
+It contains some important data
+
+=== Content of file2.txt ===
+Second file content
+More information here
+
+=== Content of file3.txt ===
+Third file
+End of files
