@@ -1,0 +1,10 @@
+apple
+banana
+cat
+cherry
+computer
+dog
+elephant
+house
+programming
+zoo
