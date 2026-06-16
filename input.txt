@@ -1,0 +1,4 @@
+Hello world
+This is the test string
+Python is very interesting
+There are four lines of the file here
