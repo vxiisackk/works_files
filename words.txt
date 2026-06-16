@@ -1,9 +1,0 @@
-apple
-banana
-cherry
-house
-Christmas tree
-car
-programming
-cat
-dog
