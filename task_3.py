@@ -1,1 +1,20 @@
+f1 = open("file1.txt", "r", encoding="utf-8")
+f2 = open("file2.txt", "r", encoding="utf-8")
+f3 = open("file3.txt", "r", encoding="utf-8")
 
+content1 = f1.read()
+content2 = f2.read()
+content3 = f3.read()
+
+f1.close()
+f2.close()
+f3.close()
+
+f = open("combined.txt", "w", encoding="utf-8")
+f.write("=== Content of file1.txt ===\n")
+f.write(content1)
+f.write("\n=== Content of file2.txt ===\n")
+f.write(content2)
+f.write("\n=== Content of file3.txt ===\n")
+f.write(content3)
+f.close()
